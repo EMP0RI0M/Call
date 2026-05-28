@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Call Assistant",
+  "description": "A bilingual AI call assistant featuring real-time incoming call simulation, dynamic English and Hindi speech transcripts, and active translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
